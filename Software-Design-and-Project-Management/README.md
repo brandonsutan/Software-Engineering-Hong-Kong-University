@@ -22,7 +22,7 @@ This course has been instrumental in sharpening my skills in software design and
 
 Upon the successful completion of this course, I was awarded a certificate, which serves as a testament to my enhanced capabilities in software design and project management.
 
-![HKUST Software Engineering Course 3 Certificate](Software-Design-and-Project-Management/Software-Design-and-Project-Management.pdg)
+![HKUST Software Engineering Course 3 Certificate](Software-Design-and-Project-Management/Software-Design-and-Project-Management.pdf)
 
 ## Acknowledgments
 
