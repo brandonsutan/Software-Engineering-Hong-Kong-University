@@ -14,19 +14,6 @@ In this course, which took 19 hours to complete, I delved into the implementatio
 - **Test Case Design:** Developed skills for designing effective test cases to thoroughly validate software functionality.
 - **SDLC Phases:** Focused on the crucial stages of implementation and testing within SDLC.
 
-## Course Modules
-
-The course content was spread across different modules, each focusing on specific aspects of implementation and testing:
-
-- `Module1/`
-  - Overview of software development processes and methodologies.
-- `Module2/`
-  - Techniques and best practices in defensive programming.
-- `Module3/`
-  - Principles and practices of software testing.
-- `Module4/`
-  - Advanced topics in implementation and testing, including automated testing tools.
-
 ## Reflection
 
 The practical knowledge gained from this course has been invaluable. I am now equipped to not only implement software solutions following the designs but also to ensure their reliability and robustness through thorough testing practices.
