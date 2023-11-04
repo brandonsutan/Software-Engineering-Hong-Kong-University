@@ -22,7 +22,7 @@ This course has significantly enhanced my ability to think abstractly about soft
 
 Upon completion of this course, I earned a certificate which is a testament to the skills and knowledge I have acquired.
 
-![HKUST Software Engineering Course 1 Certificate](/Modeling-Software-Systems-using-UML/Modeling-Software-Systems-using-UML.pdg)
+![HKUST Software Engineering Course 1 Certificate](/Modeling-Software-Systems-using-UML/Modeling-Software-Systems-using-UML.pdf)
 
 ## Acknowledgments
 
